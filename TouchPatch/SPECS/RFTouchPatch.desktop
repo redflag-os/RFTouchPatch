@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/run_RFTouchPatch.sh
+Name=RFTouchPatch
+GenericName=RFTouchPatch
+Icon=/usr/bin/RFTouchPatch.png
+Terminal=false
+Categories=Development;
